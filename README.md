@@ -2,7 +2,7 @@
 
 #### By [Ruben Giosa](https://github.com/rgiosa10), [Reed Carter](https://github.com/Reed-Carter), [Chloe (Yen Chi) Le](https://github.com/ChloeL6)
 
-#### This repo showcases working with datasets using Python, pandas, SQL, BigQuery and Looker Studio working as a team to develop an ETL pipeline. 
+#### This repo showcases working as a team to build an ETL pipeline and create visualizations using Python, SQL, BigQuery and Looker Studio.
 
 <br>
 
@@ -15,7 +15,6 @@
 * Pandas
 * Git
 * Markdown
-* JSON
 * NumPy
 * `.gitignore`
 * `requirements.txt`
@@ -33,7 +32,7 @@
 
 ## Description
 
-This repo includes an ETL pipeline leveraging the different datasets highlighted above. The team began by narrowing down our datasets and then outlining 1) Architectural structure 2) data model and 3) the full ETL pipeline to then construct each respective portion as a team:
+This repo includes an ETL pipeline leveraging the different datasets highlighted above. The team began by narrowing down our datasets and then outlining 1) the architectural structure 2) data model and 3) the full ETL pipeline to then construct each respective portion as a team:
 
 #### Architectural diagram:
 <img src="imgs/architecture_diagram.drawio.png" alt="Architectural diagram" width="640"/>
@@ -113,7 +112,7 @@ Reed put together a line graph plotting the world GDP compared to coastline size
 
 <br>
 
-Overall, the team was able to limit the amount of merge conflicts by working on independent notebooks and assigning different tasks (e.g. Each focused on constructing specific dimension and fact tables, etc.).
+Overall, the team was able to limit the amount of merge conflicts by working on independent notebooks and assigning different tasks (e.g. Each focused on constructing specific dimension and fact tables, etc.). One challenge we came across was setting up a BigQuery project and granting access to each user, this was a great learning experience for the team as we set up Service Accounts with authorization keys for each user. 
 
 ## Setup/Installation Requirements
 
