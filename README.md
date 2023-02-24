@@ -2,7 +2,9 @@
 
 #### By [Ruben Giosa](https://github.com/rgiosa10), [Reed Carter](https://github.com/Reed-Carter), [Chloe (Yen Chi) Le](https://github.com/ChloeL6)
 
-#### This repo showcases working as a team to build an ETL pipeline and create visualizations using Python, SQL, BigQuery and Looker Studio.
+#### This repo showcases working as a team to build an ETL pipeline and create visualizations using Python, SQL, BigQuery and Looker Studio. Below is a snapshot of the visuals created by Ruben Giosa from this project, which is outlined in more detail further down in the README.md for each portion:
+
+<img src="imgs/emissions_readme.png" alt="Architectural diagram" width="750"/>
 
 <br>
 
